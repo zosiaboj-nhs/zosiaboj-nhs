@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on healthcare data science
 - 📫 How to reach me: message me on here
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: aspiring ultra-distance cyclist 🚲
 
 <!---
 zosiaboj-nhs/zosiaboj-nhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
